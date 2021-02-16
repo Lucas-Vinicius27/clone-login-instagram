@@ -47,6 +47,7 @@ body {
     min-height: 34rem;
 }
 
+/* group 1 */
 .group {
     display: flex;
     justify-content: space-between;
@@ -77,3 +78,37 @@ body {
 .profile-photo img {
     height: 6rem;
 }
+
+.instagram-login {
+    background: #0095f6;
+    color: white;
+    padding: 8px;
+    border-radius: 4px;
+}
+
+.instagram-logout {
+    color: #0095f6;
+    margin-top: 1rem;
+}
+
+/* group 2 */
+.not-account {
+    color: rgb(160, 160, 160);
+}
+
+.link-blue {
+    color: #0095f6;
+}
+
+/* div get the app */
+.get-the-app {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.get-app {}
+
+.download {}
+
+.app-download {}
