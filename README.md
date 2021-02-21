@@ -1,5 +1,5 @@
 # Clone Login Instagram
-Clone da página de login do instagram.
+Clone da página de login do instagram com **HTML5, CSS3**.
 
 Desenvolvido com base na aula ___recriando a pagina inicial do instagram___.
 - Perfil GitHub [Gabriela Pinheiro](https://github.com/SpruceGabriela).
